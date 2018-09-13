@@ -1,0 +1,23 @@
+_repo: Proceedings-of-the-New-York-Historical-Association-1906_51218
+_version: 0.0.1
+creator:
+  author:
+    agent_name: New York State Historical Association. Meeting
+    gutenberg_agent_id: '46286'
+    url: http://www.gutenberg.org/2009/agents/46286
+description: ''
+gutenberg_issued: '2016-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51218'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York State Historical Association -- Periodicals'
+- !lcc 'F106'
+- !lcsh 'New York (State) -- History -- Periodicals'
+- GITenberg
+title: Proceedings of the New York Historical Association [1906]
+url: http://www.gutenberg.org/ebooks/51218
